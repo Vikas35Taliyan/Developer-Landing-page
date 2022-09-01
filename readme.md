@@ -4,9 +4,10 @@
 
 ![project](https://img.shields.io/badge/project-Designing%20homepage-green)
 ![skill](https://img.shields.io/badge/skill-css-yellow)
+Netlify- [Netlify](https://developer-landingpage-project.netlify.app/)
 
 # Developer landing page.
- In this Developer landing page project I used html and css and it looks more perfect than previous one I learn more about flexbox and others properties of css. Thanks to the Inueron team. 
+ In this Developer landing page project I used HTML and CSS. I learn more about flexbox and others properties of CSS. Thanks to the Inueron team for teching us great stuff. 
 # Skills.
 * HTML
 * CSS
