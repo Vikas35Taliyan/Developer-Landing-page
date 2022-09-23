@@ -9,7 +9,8 @@
   box-sizing: border-box;
 }
 
-body {}
+body {
+}
 
 /* header======================================= */
 
@@ -51,7 +52,7 @@ nav {
 .header-text h2 {
   font-size: 2rem;
   font-weight: 900;
-  top: 6rem; 
+  top: 6rem;
 }
 
 .header-text p {
@@ -247,7 +248,7 @@ div.blog-author {
   font-size: 12px;
 }
 
-.faq-content h2~h4:not(:first-of-type) {
+.faq-content h2 ~ h4:not(:first-of-type) {
   font-size: 1rem;
   padding-top: 25px;
 }
@@ -341,20 +342,24 @@ div.blog-author {
   list-style-type: none;
   display: flex;
   gap: 39px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: lighter;
   font-size: 20px;
   padding-top: 20px;
   margin-left: -40px;
 }
 
-.footer-section .footer-left .list .list-items~.list-items:not(:last-of-type)::after {
+.footer-section
+  .footer-left
+  .list
+  .list-items
+  ~ .list-items:not(:last-of-type)::after {
   content: "";
   width: 1px;
   height: 50%;
   margin-left: 20px;
   display: inline-block;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .footer-right:first-child {
@@ -364,14 +369,13 @@ div.blog-author {
 
 .footer-right .footer-logos:not(:last-child) {
   margin-right: 20px;
-
 }
 
 .footer-right .logos-list {
   list-style-type: none;
   display: flex;
   gap: 20px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: lighter;
   font-size: 20px;
 }
@@ -382,11 +386,12 @@ div.blog-author {
   height: 50%;
   margin-left: 20px;
   display: inline-block;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 @media only screen and (max-width: 700px) {
-  body {}
+  body {
+  }
 
   header {
     height: 150vh;
@@ -442,7 +447,7 @@ div.blog-author {
   .blog-content small {
     display: inline;
     position: relative;
-    font-size: 0.5;
+    font-size: 0.6;
   }
 
   .faq-content h2 {
@@ -474,25 +479,44 @@ div.blog-author {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-items: center;
-
   }
 
   .download-section .download-email form input {
     width: 390px;
     left: 2rem;
   }
+  .faq-content h4 {
+    margin-left: 2rem;
+  }
 }
 
-  @media only screen and (max-width: 572px) {
-    .blog-content {
-      display: none;
-    }
-
-    div.blog-author {
-      display: none;
-    }
-
-    .blog-card-bottom-image {
-      display: none;
-    }
+@media only screen and (max-width: 572px) {
+  .blog-content {
+    display: none;
   }
+
+  div.blog-author {
+    display: none;
+  }
+
+  .blog-card-bottom-image {
+    display: none;
+  }
+  .download-section .download-email form button {
+    right: -150px;
+    top: 3rem;
+  }
+  .download-content h1 {
+    right: 30px;
+  }
+
+  .footer-section .footer-left .list {
+    gap: 17px;
+  }
+  .faq-content h4 {
+    margin-left: 2rem;
+  }
+  .faq-content button {
+    margin-left: 2rem;
+  }
+}
