@@ -1,27 +1,24 @@
-## Name- Vikas kumar Taliyan
-
 ## Hashnode link- [Markdown guide](https://img.shields.io/badge/project-developer%20landingpage-green)
 
-![project](https://img.shields.io/badge/project-Designing%20homepage-green)
-![skill](https://img.shields.io/badge/skill-css-yellow)
-Netlify- [Netlify](https://developer-landingpage-project.netlify.app/)
+![project](https://img.shields.io/badge/PROJECT-DEVELOPER%20LANDING PAGE-green)
+![Time](https://img.shields.io/badge/TIME-12%20HOURS-red)
+![Credits](https://img.shields.io/badge/INEURON-ALPHA%20BATCH-lightgrey)
 
-# Developer landing page.
- In this Developer landing page project I used HTML and CSS. I learn more about flexbox and others properties of CSS. Thanks to the Inueron team for teching us great stuff. 
+## Netlify:
+[Live](https://developer-landingpage-project.netlify.app/)
+
+# Developer Landing page.
+ In this Developer landing page project I used HTML and CSS. I learn more about flexbox and others properties of CSS. Thanks to the Ineuron Team for Teaching us in Detailed Manner. 
+ 
 # Skills.
-* HTML
-* CSS
-
-# Time.
-12 hours
+* HTML.
+* CSS.
 
 # Learn from the project.
-* Designing button
-* card using flexbox
-* positions
-* CSS text
-* css colors
-* Box model
+* Media Queries.
+* Flexbox.
+* Positioning Properties.
+* Box model.
 
 # Screenshot of project.
 ![Developer  landingpage](./screen-shots/01.png)
@@ -31,7 +28,7 @@ Netlify- [Netlify](https://developer-landingpage-project.netlify.app/)
 ![3](./screen-shots/03.png)
 
 ## Thanks to-
-![Thanks](https://img.shields.io/badge/Thanks-Hitesh%20choudhary-yellowgreen)
-![Thanks](https://img.shields.io/badge/Thanks-Inueron-green)
+![Thanks](https://img.shields.io/badge/THANKS-HITESH%20CHAUDHARY-yellowgreen)
+![Thanks](https://img.shields.io/badge/THANKS-ARURAG TIWARI-green)
 
 
