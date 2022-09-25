@@ -1,6 +1,6 @@
 ## Hashnode link- [Markdown guide](https://img.shields.io/badge/project-developer%20landingpage-green)
 
-![project](https://img.shields.io/badge/PROJECT-DEVELOPER%20LANDING PAGE-green)
+![project](https://img.shields.io/badge/PROJECT-DEVEPOLER--PAGE-yellow)
 ![Time](https://img.shields.io/badge/TIME-12%20HOURS-red)
 ![Credits](https://img.shields.io/badge/INEURON-ALPHA%20BATCH-lightgrey)
 
@@ -29,6 +29,6 @@
 
 ## Thanks to-
 ![Thanks](https://img.shields.io/badge/THANKS-HITESH%20CHAUDHARY-yellowgreen)
-![Thanks](https://img.shields.io/badge/THANKS-ARURAG TIWARI-green)
+![Thanks](https://img.shields.io/badge/THANKS-ANURAG%20TIWARI-orange)
 
 
