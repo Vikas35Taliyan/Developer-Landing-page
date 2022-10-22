@@ -8,7 +8,7 @@
 [Live](https://developer-landingpage-project.netlify.app/)
 
 # Developer Landing page.
- In this Developer landing page project I used HTML and CSS. I learn more about flexbox and others properties of CSS. Thanks to the Ineuron Team for Teaching us in Detailed Manner. 
+ In this Developer landing page project I used HTML and CSS. I learn more about flexbox and other Properties of CSS. Thanks to the Ineuron Team for Teaching us in Detailed Manner. 
  
 # Skills.
 * HTML.
